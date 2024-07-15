@@ -15,6 +15,7 @@ The KiCAD symbol consists of three units which map to the [CM5 Schematic](https:
 - Unit-B is schematic reference U13-B
 - Unit-C is schematic reference J1
 
+Note:  Due to the limitation of how KiCAD maps pin numbers between Symbol and Footprint, Unit-C is numbered from 201 to 300.  To match schematic reference J1's pinout subtract 200, eg:   Unit-C Pin 217 is J1's Pin 17.
 
 
 ## References
