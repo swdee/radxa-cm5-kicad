@@ -17,6 +17,17 @@ The KiCAD symbol consists of three units which map to the [CM5 Schematic](https:
 
 Note:  Due to the limitation of how KiCAD maps pin numbers between Symbol and Footprint, Unit-C is numbered from 201 to 300.  To match schematic reference J1's pinout subtract 200, eg:   Unit-C Pin 217 is J1's Pin 17.
 
+## Mechanical Validation
+
+The footprint has been mechanically validated for correct fit with CM5 module.
+
+![PCB Photo](screenshots/pcb-photo.jpg)
+
+
+## SMD Stencil
+
+When ordering SMD stencil get 0.10mm thickness.
+
 
 ## References
 
