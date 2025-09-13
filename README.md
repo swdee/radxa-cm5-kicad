@@ -26,7 +26,13 @@ The footprint has been mechanically validated for correct fit with CM5 module.
 
 ## SMD Stencil
 
-When ordering SMD stencil get 0.10mm thickness.
+
+Order SMD stencil with 0.10mm thickness.
+
+
+## CM4 Compute Module
+
+KiCAD files for CM4 also [available here](https://github.com/swdee/radxa-cm4-kicad).
 
 
 ## References
